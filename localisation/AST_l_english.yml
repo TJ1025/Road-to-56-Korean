@@ -8,7 +8,7 @@
  #Maribyrnong Factory if another artillery manufacturer is needed (probably for cost or unique jungle bonus due to 25 pounder short)
 
  ### EVENTS ###
- r56_australia.country_win:0 "The Country Party leads the coalition."
+ r56_australia.country_win:0 "호주 지역당이 연립정부를 주도하고 있습니다."
  r56_australia.communist_win:0 "The Communist Party of Australia wins."
  r56_australia.fascists_win:0 "A victory for the right!"
  r56_australia.centre_win:0 "The Centre Party takes a landslide win."
